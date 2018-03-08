@@ -1,1 +1,1 @@
-# shoot-game-python
+# A simple shoot game
